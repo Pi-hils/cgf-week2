@@ -1,4 +1,4 @@
-# CFG basics week 2
+# :zap::computer::zap: CFG basics week 2 :taco:
 ### Input, Functions, Loops, Conditional Statements
 
 
